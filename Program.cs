@@ -9,7 +9,7 @@ namespace firstDotnetConsoleapp
             int numero = 5;
 
             for(int i=1; i <= numero; i++){
-                Console.WriteLine("Hello World {0}", i);
+                Console.WriteLine($"Hello World {i}");
             }
         }
     }
