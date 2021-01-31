@@ -1,0 +1,16 @@
+C:\GitWorkspace\firstDotnetConsoleapp\bin\Debug\net5.0\firstDotnetConsoleapp.exe
+C:\GitWorkspace\firstDotnetConsoleapp\bin\Debug\net5.0\firstDotnetConsoleapp.deps.json
+C:\GitWorkspace\firstDotnetConsoleapp\bin\Debug\net5.0\firstDotnetConsoleapp.runtimeconfig.json
+C:\GitWorkspace\firstDotnetConsoleapp\bin\Debug\net5.0\firstDotnetConsoleapp.runtimeconfig.dev.json
+C:\GitWorkspace\firstDotnetConsoleapp\bin\Debug\net5.0\firstDotnetConsoleapp.dll
+C:\GitWorkspace\firstDotnetConsoleapp\bin\Debug\net5.0\ref\firstDotnetConsoleapp.dll
+C:\GitWorkspace\firstDotnetConsoleapp\bin\Debug\net5.0\firstDotnetConsoleapp.pdb
+C:\GitWorkspace\firstDotnetConsoleapp\obj\Debug\net5.0\firstDotnetConsoleapp.csprojAssemblyReference.cache
+C:\GitWorkspace\firstDotnetConsoleapp\obj\Debug\net5.0\firstDotnetConsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitWorkspace\firstDotnetConsoleapp\obj\Debug\net5.0\firstDotnetConsoleapp.AssemblyInfoInputs.cache
+C:\GitWorkspace\firstDotnetConsoleapp\obj\Debug\net5.0\firstDotnetConsoleapp.AssemblyInfo.cs
+C:\GitWorkspace\firstDotnetConsoleapp\obj\Debug\net5.0\firstDotnetConsoleapp.csproj.CoreCompileInputs.cache
+C:\GitWorkspace\firstDotnetConsoleapp\obj\Debug\net5.0\firstDotnetConsoleapp.dll
+C:\GitWorkspace\firstDotnetConsoleapp\obj\Debug\net5.0\ref\firstDotnetConsoleapp.dll
+C:\GitWorkspace\firstDotnetConsoleapp\obj\Debug\net5.0\firstDotnetConsoleapp.pdb
+C:\GitWorkspace\firstDotnetConsoleapp\obj\Debug\net5.0\firstDotnetConsoleapp.genruntimeconfig.cache
